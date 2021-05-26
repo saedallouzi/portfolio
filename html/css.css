@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(26, 73, 71);
+  color: aliceblue;
+}
+h2 {
+  color: rgba(65, 28, 28, 0.877);
+}
+b {
+  color: black;
+}
+
+img {
+  width: 500px;
+  border-radius: 250px;
+  float: left;
+  margin-right: 10px;
+}
